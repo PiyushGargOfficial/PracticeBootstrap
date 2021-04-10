@@ -1,0 +1,4 @@
+Change Title
+Change NavBar Options
+Change Images in the Carousel
+Change button names

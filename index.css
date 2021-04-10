@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.myImages{
+    max-width:100%;
+    max-height: 100%;
+}
+
+.buttonDiv{
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+
+}
+
+.marginRight{
+    margin-right: 200px;
+}
